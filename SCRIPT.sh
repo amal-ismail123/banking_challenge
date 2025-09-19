@@ -121,3 +121,4 @@ echo "View account balances: sqlite3 banking.db 'SELECT u.first_name, u.last_nam
 echo "View recent transactions: sqlite3 banking.db 'SELECT * FROM TRANSACTIONS ORDER BY created_at DESC LIMIT 5;'"
 echo ""
 echo "🏦 Banking database is ready for your use!"
+
