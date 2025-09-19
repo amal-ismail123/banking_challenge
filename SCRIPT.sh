@@ -122,3 +122,7 @@ echo "View recent transactions: sqlite3 banking.db 'SELECT * FROM TRANSACTIONS O
 echo ""
 echo "🏦 Banking database is ready for your use!"
 
+
+
+
+
